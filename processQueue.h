@@ -1,7 +1,7 @@
 /** processQueue.h
  * ===========================================================
- * Name: <Last Name, First Name>
- * Section: <Section>
+ * Name: Milio, Franco
+ * Section: M4
  * Project: PEX2 - CPU Scheduling Simulator
  * Purpose: Defines the Process, Node, and Queue data structures
  *          used by the scheduling simulation's doubly-linked ready
